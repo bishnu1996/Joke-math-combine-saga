@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Joke-math-combine-saga/static/css/main.145fb610.css",
+    "main.js": "/Joke-math-combine-saga/static/js/main.ff495478.js",
+    "static/js/787.7cb36502.chunk.js": "/Joke-math-combine-saga/static/js/787.7cb36502.chunk.js",
+    "index.html": "/Joke-math-combine-saga/index.html",
+    "main.145fb610.css.map": "/Joke-math-combine-saga/static/css/main.145fb610.css.map",
+    "main.ff495478.js.map": "/Joke-math-combine-saga/static/js/main.ff495478.js.map",
+    "787.7cb36502.chunk.js.map": "/Joke-math-combine-saga/static/js/787.7cb36502.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.145fb610.css",
+    "static/js/main.ff495478.js"
+  ]
+}
